@@ -1017,7 +1017,7 @@ int main(){
     system("cls");
 		
 	cout<<endl;
-	cout<<right<<setw(60)<<setfill(' ')<<"WELCOME TO ST.MUNGO'S HOSPITAL MANAGEMENT SYSTEM "<<endl;
+	cout<<right<<setw(60)<<setfill(' ')<<"WELCOME TO REETIK'S HOSPITAL MANAGEMENT SYSTEM "<<endl;
 	cout<<endl<<endl;
 	cout<<right<<setw(60)<<setfill(' ')<<"------------------------------------------------"<<endl;
 	
